@@ -1,0 +1,8 @@
+C:\Users\lukeh\Desktop\proxy\proxy\bin\Debug\proxy.exe.config
+C:\Users\lukeh\Desktop\proxy\proxy\bin\Debug\proxy.exe
+C:\Users\lukeh\Desktop\proxy\proxy\bin\Debug\proxy.pdb
+C:\Users\lukeh\Desktop\proxy\proxy\obj\Debug\proxy.csproj.AssemblyReference.cache
+C:\Users\lukeh\Desktop\proxy\proxy\obj\Debug\proxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukeh\Desktop\proxy\proxy\obj\Debug\proxy.csproj.CoreCompileInputs.cache
+C:\Users\lukeh\Desktop\proxy\proxy\obj\Debug\proxy.exe
+C:\Users\lukeh\Desktop\proxy\proxy\obj\Debug\proxy.pdb
